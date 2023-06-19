@@ -1,0 +1,8 @@
+prefix=/home/benchun/dataset/icl_nuim/orb_cuboid_plane_slam_V4/Thirdparty/tictoc_profiler/build/devel
+
+Name: tictoc_profiler
+Description: Description of tictoc_profiler
+Version: 0.0.0
+Cflags: -I/home/benchun/dataset/icl_nuim/orb_cuboid_plane_slam_V4/Thirdparty/tictoc_profiler/build/devel/include -I/home/benchun/dataset/icl_nuim/orb_cuboid_plane_slam_V4/Thirdparty/tictoc_profiler/include -I/usr/include
+Libs: -L${prefix}/lib -ltictoc_profiler /usr/lib/x86_64-linux-gnu/libboost_system.so /usr/lib/x86_64-linux-gnu/libboost_chrono.so
+Requires: roscpp std_msgs message_runtime

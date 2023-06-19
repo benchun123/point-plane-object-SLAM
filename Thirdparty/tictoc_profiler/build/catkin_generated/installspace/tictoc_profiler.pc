@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: tictoc_profiler
+Description: Description of tictoc_profiler
+Version: 0.0.0
+Cflags: -I${prefix}/include -I/usr/include
+Libs: -L${prefix}/lib -ltictoc_profiler /usr/lib/x86_64-linux-gnu/libboost_system.so /usr/lib/x86_64-linux-gnu/libboost_chrono.so
+Requires: roscpp std_msgs message_runtime

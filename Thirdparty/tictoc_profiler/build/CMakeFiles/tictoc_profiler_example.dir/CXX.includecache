@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/tictoc_profiler/profiler.hpp
+stdint.h
+-
+time.h
+-
+map
+-
+vector
+-
+string
+-
+iostream
+-
+boost/chrono.hpp
+-
+
+/home/benchun/dataset/icl_nuim/orb_cuboid_plane_slam_V4/Thirdparty/tictoc_profiler/src/example.cpp
+iostream
+-
+tictoc_profiler/profiler.hpp
+/home/benchun/dataset/icl_nuim/orb_cuboid_plane_slam_V4/Thirdparty/tictoc_profiler/src/tictoc_profiler/profiler.hpp
+
