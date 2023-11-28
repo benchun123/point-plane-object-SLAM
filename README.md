@@ -32,7 +32,7 @@ build the project:
 
 Download dataset: 
 
-the open-source code runs on a [living room kt-2 sequence](https://bwsyncandshare.kit.edu/s/nH8QTiZXceKnE6c) of [ICL NUIM RGB-D Dataset](https://www.doc.ic.ac.uk/~ahanda/VaFRIC/iclnuim.html). A copy of the dataset can also be found at [Google Drive]([https://bwsyncandshare.kit.edu/s/nH8QTiZXceKnE6c](https://drive.google.com/drive/folders/1FwkxgzuxQNrRuaUcgMm9d3iPoDfiU2tn?usp=sharing))
+the open-source code runs on a [living room kt-2 sequence](https://bwsyncandshare.kit.edu/s/nH8QTiZXceKnE6c) of [ICL NUIM RGB-D Dataset](https://www.doc.ic.ac.uk/~ahanda/VaFRIC/iclnuim.html). A copy of the dataset can also be found at [Google Drive](https://drive.google.com/drive/folders/1FwkxgzuxQNrRuaUcgMm9d3iPoDfiU2tn?usp=sharing).
 
 Run it as follows:
 ```
